@@ -1,0 +1,57 @@
+body {
+    background-color: #b8d8be;
+  }
+
+
+  .gif {
+    position: absolute;
+    top: 40%; 
+    left: 43%; 
+    width: 180px; 
+    height: auto; 
+  }
+
+  .leaf1{
+    position: absolute;
+    top: 37%;
+    right: 75%;
+    width: 800px    ; 
+    height: auto; 
+}
+.leaf2{
+
+    position: absolute;
+    transform: rotate(30deg);
+    top: 60%;
+    right: 75%;
+    width: 800px    ; 
+    height: auto; 
+}
+.leaf3{
+
+    position: absolute;
+    transform: rotate(190deg);
+    top: -14%;
+    left: 78%;
+    width: 800px    ; 
+    height: auto; 
+}
+.leaf4{
+
+    position: absolute;
+    transform: rotate(220deg);
+    bottom: 50%;
+    left: 70%;  
+    width: 800px    ; 
+    height: auto; 
+}
+
+.yes{
+    text-align: center;
+    margin-top: 600px;
+    margin-left: -70px;
+    font-size: 200%;
+    font-family: 'Nunito', sans-serif;
+    color: aliceblue;
+}
+
